@@ -14,7 +14,14 @@ public class BookController {
 
     @GetMapping("/books")
     public String getBookList(Model model) {
-        model.addAttribute("bookList", bookService.getBookList());
+        model.addAttribute("bookList", bookService.getBookList()); //bookList -> property
+        model.addAttribute("bookList2", bookService.getBookList()); //bookList -> property
+        return "book";  //뷰의 이름
+    }
+
+    @GetMapping("/bookss")
+    public String getIntegerList(Model model) {
+        model.addAttribute("bookList3", bookService.getInteger());
         return "book";
     }
 }

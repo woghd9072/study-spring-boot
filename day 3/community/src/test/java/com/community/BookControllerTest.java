@@ -31,11 +31,19 @@ public class BookControllerTest {
     @Test
     public void Book_MVC_테스트() throws Exception {
         Book book = new Book("Spring Boot Book", LocalDateTime.now());
+        Integer a = new Integer(1);
         given(bookService.getBookList()).willReturn(Collections.singletonList(book));
+        given(bookService.getInteger()).willReturn(Collections.singletonList(a));
         mvc.perform(get("/books"))
                 .andExpect(status().isOk())
                 .andExpect(view().name("book"))
                 .andExpect(model().attributeExists("bookList"))
+                .andExpect(model().attributeExists("bookList2"))
                 .andExpect(model().attribute("bookList", contains(book)));
+        mvc.perform(get("/bookss"))
+                .andExpect(status().isOk())
+                .andExpect(view().name("book"))
+                .andExpect(model().attributeExists("bookList3"))
+                .andExpect(model().attribute("bookList3", contains(a)));
     }
 }
