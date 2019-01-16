@@ -8,3 +8,6 @@
 
 #### 타임리프, 템플릿, 템플릿엔진
 - [타임리프, 템플릿, 템플릿엔진](https://github.com/rhkd4560/Study-SpringBoot/tree/master/Spring%204day/homework)
+
+#### MVC Pattern
+- [MVC Pattern](https://github.com/ber01/Study-Spring-Boot/tree/master/keyword/MVC)
