@@ -10,3 +10,6 @@ Member
 - [임동훈](https://github.com/dongh9508)
 - [최광민](https://github.com/rhkd4560)
 - [하상엽](https://github.com/hagome0)
+
+Day1)
+- application.yml 생성
