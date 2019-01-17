@@ -1,4 +1,4 @@
-# study-spring-boot
+# Study-Spring-Boot
 
 ### Member
 - [민경환](https://github.com/ber01)
