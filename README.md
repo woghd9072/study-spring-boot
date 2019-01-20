@@ -37,3 +37,8 @@
 - WebApplication 생성
 - CommendLine Runner를 통해 DB에 데이터 넣기
 - list.html & form.html 생성
+
+### [Day6)](https://github.com/woghd9072/study-spring-boot/tree/master/day%206/Spring-Boot-Community-Web)
+- SocialType 생성 & User 추가
+- OAuth2 의존성 설정
+- SNS 프로퍼티 설정 및 바인딩(application.yml)
