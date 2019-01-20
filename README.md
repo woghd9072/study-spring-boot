@@ -13,12 +13,24 @@
 
 ### [Day1)](https://github.com/woghd9072/study-spring-boot/tree/master/day%201/community)
 - application.yml 생성
+- 테스트 프로퍼티 추가
+- @Value & @ConfigurationProperties
 
 ### [Day2)](https://github.com/woghd9072/study-spring-boot/tree/master/day%202/community)
+- H2 Console 자동 설정
+- @SpringBootTest
+- @WebMvcTest
 
 ### [Day3)](https://github.com/woghd9072/study-spring-boot/tree/master/day%203/community)
+- @DataJpaTest
+- @RestClientTest
+- @JsonTest
 
 ### [Day4)](https://github.com/woghd9072/study-spring-boot/tree/master/day%204)
+- Web 프로젝트 생성
+- 프로젝트 의존성 구성
+- 도메인 매핑하기(DB와 도메인 클래스를 연결)
+- 도메인 테스트하기(@DataJpaTest)
 
 ### [Day5)](https://github.com/woghd9072/study-spring-boot/tree/master/day%205/Spring-Boot-Community-Web)
 - BoardService & BoardController 생성
