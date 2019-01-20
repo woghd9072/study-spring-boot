@@ -21,3 +21,7 @@
 ### [Day4)](https://github.com/woghd9072/study-spring-boot/tree/master/day%204)
 
 ### [Day5)](https://github.com/woghd9072/study-spring-boot/tree/master/day%205/Spring-Boot-Community-Web)
+- BoardService & BoardController 생성
+- WebApplication 생성
+- CommendLine Runner를 통해 DB에 데이터 넣기
+- list.html & form.html 생성
