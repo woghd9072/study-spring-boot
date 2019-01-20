@@ -42,3 +42,4 @@
 - SocialType 생성 & User 추가
 - OAuth2 의존성 설정
 - SNS 프로퍼티 설정 및 바인딩(application.yml)
+- Facebook & Google & Kakao 로그인 연동
