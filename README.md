@@ -43,3 +43,7 @@
 - OAuth2 의존성 설정
 - SNS 프로퍼티 설정 및 바인딩(application.yml)
 - Facebook & Google & Kakao 로그인 연동
+
+### [Day7)](https://github.com/woghd9072/study-spring-boot/tree/master/day%207/Spring-Boot-Community-Web)
+- 프로퍼티 바인딩
+- 시큐리티 + OAuth2 설정하기
