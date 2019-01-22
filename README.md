@@ -47,3 +47,7 @@
 ### [Day7)](https://github.com/woghd9072/study-spring-boot/tree/master/day%207/Spring-Boot-Community-Web)
 - 프로퍼티 바인딩
 - 시큐리티 + OAuth2 설정하기
+
+### [Day8)](https://github.com/woghd9072/study-spring-boot/tree/master/day%208/Spring-Boot-Community-Web)
+- User 정보를 가져와서 세션에 저장
+- 로그인 구현
