@@ -51,3 +51,8 @@
 ### [Day8)](https://github.com/woghd9072/study-spring-boot/tree/master/day%208/Spring-Boot-Community-Web)
 - User 정보를 가져와서 세션에 저장
 - 로그인 구현
+
+### [Day9)](https://github.com/woghd9072/study-spring-boot/tree/master/day%209/Spring-Boot-Community-Web)
+- 스프링 부트 시큐리티 + OAuth2
+- SNS 프로퍼티 설정 및 바인딩
+- 시큐리티 설정하기
