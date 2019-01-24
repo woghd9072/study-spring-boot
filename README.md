@@ -56,3 +56,7 @@
 - 스프링 부트 시큐리티 + OAuth2
 - SNS 프로퍼티 설정 및 바인딩
 - 시큐리티 설정하기
+
+### [Day10)](https://github.com/woghd9072/study-spring-boot/tree/master/day%2010/Spring-Boot-Community-Web)
+- 최종 완성된 시큐리티 + OAuth2 설정
+- UserInfoTokenServices 클래스 커스터마이징
