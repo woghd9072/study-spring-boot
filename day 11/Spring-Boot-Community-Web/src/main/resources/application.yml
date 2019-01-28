@@ -16,12 +16,12 @@ spring:
       client:
         registration:
           google:
-            client-id: 52562431325-fr55d83lp5dlqa0bjohedir9c4t1hk21.apps.googleusercontent.com
-            client-secret: NQUnn5xuu5DXnb4QYHBjSi19
+            client-id:
+            client-secret:
           facebook:
-            client-id: 2069470136471129
-            client-secret: de9657e252cd13d84115582d6d67f668
+            client-id:
+            client-secret:
 custom:
   oauth2:
     kakao:
-      client-id: 065339fb0b85591fa331bfb48ce48f54
+      client-id:
