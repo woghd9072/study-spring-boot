@@ -60,3 +60,13 @@
 ### [Day10)](https://github.com/woghd9072/study-spring-boot/tree/master/day%2010/Spring-Boot-Community-Web)
 - 최종 완성된 시큐리티 + OAuth2 설정
 - UserInfoTokenServices 클래스 커스터마이징
+
+### [Day11)](https://github.com/woghd9072/study-spring-boot/tree/master/day%2011/Spring-Boot-Community-Web)
+- 스프링 부트 2.0 기반의 OAuth2 설정하기
+- 2.0 버전으로 의존성 업그레이드
+- OAuth2 인증 재설정
+
+### [Day12)](https://github.com/woghd9072/study-spring-boot/tree/master/day%2012)
+- MySQL 연동시키기
+- REST API 구현하기
+- CORS 허용 및 시큐리티 설정
