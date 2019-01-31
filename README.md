@@ -71,6 +71,6 @@
 - REST API 구현하기
 - CORS 허용 및 시큐리티 설정
 
-### [Day13)](https://github.com/woghd9072/study-spring-boot/tree/master/day%2013/Spring-Boot-Community-Rest)
+### [Day13)](https://github.com/woghd9072/study-spring-boot/tree/master/day%2013)
 - 생성, 수정, 삭제 구현
 - 데이터 레스트로 REST API 구현 준비하기
