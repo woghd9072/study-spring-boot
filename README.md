@@ -74,3 +74,9 @@
 ### [Day13)](https://github.com/woghd9072/study-spring-boot/tree/master/day%2013)
 - 생성, 수정, 삭제 구현
 - 데이터 레스트로 REST API 구현 준비하기
+
+### [Day14)]()
+- 4장부터 복습 시작
+- 프로젝트 의존성 구성
+- 도메인 매핑하기
+- 도메인 테스트하기(@DataJpaTest 사용)
