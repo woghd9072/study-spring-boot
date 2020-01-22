@@ -11,6 +11,13 @@
 - [최광민](https://github.com/rhkd4560)
 - [하상엽](https://github.com/hagome0)
 
+### 교재
+- 처음 배우는 스프링 부트2 (김영재 지음)
+- https://github.com/young891221/Spring-Boot-Test
+- https://github.com/young891221/Spring-Boot-Community-Web
+- https://github.com/young891221/Spring-Boot-Community-Rest
+- https://github.com/young891221/Spring-Boot-Community-Batch
+
 ### [Day1)](https://github.com/woghd9072/study-spring-boot/tree/master/day%201/community)
 - application.yml 생성
 - 테스트 프로퍼티 추가
